@@ -72,3 +72,8 @@
 === 3.0.0 2016-11-16
 
 * Add namespaces to master.
+
+=== 3.0.1 2017-01-11
+
+* Order's submodels added. New Order Flow.
+* Check https://www.conekta.io/es/docs/api v1.1 for further information
